@@ -17,7 +17,7 @@ export default function Home() {
       <section className="showcase">
         
         <video width="100%" height="100%" muted loop={true} controls={true} autoPlay={true} >
-          <source src="./production ID_5101165_4k.mp4" type="video/mp4"/>
+          <source src="./production ID_5101165.mp4" type="video/mp4"/>
         </video>
 
         <div className="overlay"></div>
